@@ -1,0 +1,6 @@
+retrieves images from esri tile bundles
+
+just works for png images at the moment, but adding support for jpeg
+will probably be trivial
+
+more to come

@@ -1,0 +1,9 @@
+.DS_Store
+*.png
+*.jpg
+*.gif
+*.py[cod]
+*.sqlite3
+bin/
+files/
+fonts/
